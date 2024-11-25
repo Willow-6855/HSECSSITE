@@ -23,7 +23,7 @@ const space_grotesk = Space_Grotesk({
   variable: '--font-space-grotesk'
 })
 export const metadata: Metadata = {
-  title: 'Next Temp',
+  title: 'HSE Computer Science',
   description: 'create next app By Yahya Parvar!'
 }
 
