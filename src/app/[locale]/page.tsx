@@ -25,7 +25,7 @@ export default function DashboardPage() {
             target='_blank'
           >
             <Button rounded size='large'>
-              {t('Use_Template')}
+              {t('CS Classes')}
             </Button>
           </a>
           <a
@@ -33,7 +33,7 @@ export default function DashboardPage() {
             target='_blank'
           >
             <Button rounded size='large' variant='secondary'>
-              {t('Learn_More')}
+              {t('CS Clubs')}
             </Button>
           </a>
         </div>

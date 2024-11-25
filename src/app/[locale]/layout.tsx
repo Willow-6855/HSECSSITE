@@ -24,7 +24,7 @@ const space_grotesk = Space_Grotesk({
 })
 export const metadata: Metadata = {
   title: 'HSE Computer Science',
-  description: 'create next app By Yahya Parvar!'
+  description: 'Hamilton Southeastern Computer Science Site'
 }
 
 export default function RootLayout({
